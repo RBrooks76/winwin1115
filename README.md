@@ -42,7 +42,9 @@
 
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<p align=center>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
