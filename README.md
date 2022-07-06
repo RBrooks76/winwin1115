@@ -43,7 +43,7 @@
 <h2 align="center">🏆 GitHub Trophies 🏆</h2>
 
 <p align=center>
-  [![trophy](https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <img alig src="https://github-profile-trophy.vercel.app/?username=winwin1115&theme=nord&column=7" />
 </p>
 <hr>
 
